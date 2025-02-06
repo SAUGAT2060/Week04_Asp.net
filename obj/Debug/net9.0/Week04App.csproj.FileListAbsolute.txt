@@ -1,0 +1,194 @@
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.AssemblyInfoInputs.cache
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.AssemblyInfo.cs
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.csproj.CoreCompileInputs.cache
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.MvcApplicationPartsAssemblyInfo.cache
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.RazorAssemblyInfo.cache
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.RazorAssemblyInfo.cs
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/appsettings.Development.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/appsettings.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.staticwebassets.runtime.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.staticwebassets.endpoints.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.deps.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.runtimeconfig.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.dll
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.pdb
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/scopedcss/bundle/Week04App.styles.css
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/scopedcss/projectbundle/Week04App.bundle.scp.css
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/zlxxuiz24u-b9sayid5wm.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/n60afqch8u-61n19gt1b8.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ffw7pezdgb-xtxxf3hu2r.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/j0vtfwi3q3-bqjiyaj88i.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/b671b0bzkz-c2jlpeoesf.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ksmvow4xxu-erw9l3u2r3.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ht40wbjjs7-aexeepp0ev.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/juohvhw3hs-d7shbmvgxk.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/v661tep39a-ausgxo2sd3.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/45qli04pzo-k8d9w2qqmf.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/0frcrmp1wf-cosvhxvwiu.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/1la6cntlhw-ub07r2b239.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/mni4iy0bau-fvhpjtyr6v.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/h3y6ro7299-b7pk76d08c.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/y2rr41nnf4-fsbi9cje9m.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/t2m4qezido-rzd6atqjts.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/svepm2x7ey-ee0r1s7dh0.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/4608a8jm15-dxx9fxp4il.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/74p6bob6iv-jd9uben2k1.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/mrcamgjdz9-khv3u5hwcm.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/pdk9583wgw-r4e9w2rdcm.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/8gh80rerlq-lcd1t2u6c8.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ohxix1l4de-c2oey78nd0.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/9ere20ns6y-tdbxkamptv.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/wxz9t3u7jt-j5mq2jizvt.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/uikd3e1hy1-06098lyss8.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/u3ih5rqd8d-nvvlpmu67g.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/k4aspy8u4v-s35ty4nyc5.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/6vypo5aksj-pj5nd1wqec.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/70sjty20mg-46ein0sx1k.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/3m5kreef4k-v0zj4ognzu.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/lqpas0xuog-37tfw0ft22.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/yo6rq6narx-hrwsygsryq.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/m49v7c32ai-pk9g2wxc8p.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/siaobu60sh-ft3s53vfgj.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ixxvv5v8xk-6cfz1n2cew.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/86nu1blsj3-6pdc2jztkx.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/q5iwtsest9-493y06b0oq.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ws7p72ymdx-iovd86k7lj.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/v8hak2elnm-vr1egmr9el.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/zsm3ti11d0-kbrnm935zg.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/3vjhd6m2bq-jj8uyg4cgr.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/nzfhganobn-y7v9cxd14o.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ch6pi29tbc-notf2xhcfb.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/4677q64uz0-h1s4sie4z3.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/531t4epkno-63fj8s7r0e.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ftgt0fp120-0j3bgjxly4.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/0j0rw7hm7y-47otxtyo56.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/a0juaxcsx5-4v8eqarkd7.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/q2rmctwjco-356vix0kms.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/w8nllyj4ol-83jwlth58m.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/aaoqxvr8qy-mrlpezrjn3.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/o7vg1vlcs0-lzl9nlhx6b.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/tv8kr326mk-ag7o75518u.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/zvon82q5y6-x0q3zqp4vz.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/0bm9h52sh7-0i3buxo5is.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/h0mol64q30-o1o13a6vjx.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/3tdl6idiig-ttgo8qnofa.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/3koxcsnfc8-2z0ns9nrw6.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ndp0sc9n1e-muycvpuwrr.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/dzd95ovbma-87fc7y1x7t.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/y4edole2fh-mlv21k5csn.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/y1a66pzvkp-apvhru2424.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/h7n2etfmje-apvhru2424.gz
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets.build.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets.development.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.Week04App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.Week04App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.build.Week04App.props
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Week04App.props
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Week04App.props
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.dll
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/refint/Week04App.dll
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.pdb
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.genruntimeconfig.cache
+/Users/saugatrana/Desktop/Asp Net  week 04/Week04App/obj/Debug/net9.0/ref/Week04App.dll
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/appsettings.Development.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/appsettings.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.staticwebassets.endpoints.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.staticwebassets.runtime.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.deps.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.runtimeconfig.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.dll
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/bin/Debug/net9.0/Week04App.pdb
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.AssemblyInfoInputs.cache
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.AssemblyInfo.cs
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.csproj.CoreCompileInputs.cache
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.MvcApplicationPartsAssemblyInfo.cache
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.RazorAssemblyInfo.cache
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.RazorAssemblyInfo.cs
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/scopedcss/bundle/Week04App.styles.css
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/scopedcss/projectbundle/Week04App.bundle.scp.css
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/zlxxuiz24u-b9sayid5wm.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/n60afqch8u-61n19gt1b8.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ffw7pezdgb-xtxxf3hu2r.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/j0vtfwi3q3-bqjiyaj88i.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/b671b0bzkz-c2jlpeoesf.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ksmvow4xxu-erw9l3u2r3.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ht40wbjjs7-aexeepp0ev.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/juohvhw3hs-d7shbmvgxk.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/v661tep39a-ausgxo2sd3.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/45qli04pzo-k8d9w2qqmf.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/0frcrmp1wf-cosvhxvwiu.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/1la6cntlhw-ub07r2b239.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/mni4iy0bau-fvhpjtyr6v.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/h3y6ro7299-b7pk76d08c.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/y2rr41nnf4-fsbi9cje9m.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/t2m4qezido-rzd6atqjts.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/svepm2x7ey-ee0r1s7dh0.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/4608a8jm15-dxx9fxp4il.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/74p6bob6iv-jd9uben2k1.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/mrcamgjdz9-khv3u5hwcm.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/pdk9583wgw-r4e9w2rdcm.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/8gh80rerlq-lcd1t2u6c8.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ohxix1l4de-c2oey78nd0.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/9ere20ns6y-tdbxkamptv.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/wxz9t3u7jt-j5mq2jizvt.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/uikd3e1hy1-06098lyss8.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/u3ih5rqd8d-nvvlpmu67g.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/k4aspy8u4v-s35ty4nyc5.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/6vypo5aksj-pj5nd1wqec.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/70sjty20mg-46ein0sx1k.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/3m5kreef4k-v0zj4ognzu.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/lqpas0xuog-37tfw0ft22.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/yo6rq6narx-hrwsygsryq.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/m49v7c32ai-pk9g2wxc8p.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/siaobu60sh-ft3s53vfgj.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ixxvv5v8xk-6cfz1n2cew.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/86nu1blsj3-6pdc2jztkx.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/q5iwtsest9-493y06b0oq.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ws7p72ymdx-iovd86k7lj.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/v8hak2elnm-vr1egmr9el.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/zsm3ti11d0-kbrnm935zg.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/3vjhd6m2bq-jj8uyg4cgr.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/nzfhganobn-y7v9cxd14o.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ch6pi29tbc-notf2xhcfb.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/4677q64uz0-h1s4sie4z3.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/531t4epkno-63fj8s7r0e.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ftgt0fp120-0j3bgjxly4.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/0j0rw7hm7y-47otxtyo56.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/a0juaxcsx5-4v8eqarkd7.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/q2rmctwjco-356vix0kms.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/w8nllyj4ol-83jwlth58m.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/aaoqxvr8qy-mrlpezrjn3.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/o7vg1vlcs0-lzl9nlhx6b.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/tv8kr326mk-ag7o75518u.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/zvon82q5y6-x0q3zqp4vz.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/0bm9h52sh7-0i3buxo5is.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/h0mol64q30-o1o13a6vjx.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/3tdl6idiig-ttgo8qnofa.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/3koxcsnfc8-2z0ns9nrw6.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/ndp0sc9n1e-muycvpuwrr.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/dzd95ovbma-87fc7y1x7t.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/y4edole2fh-mlv21k5csn.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/y1a66pzvkp-apvhru2424.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/compressed/h7n2etfmje-apvhru2424.gz
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets.build.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets.development.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.Week04App.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.Week04App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.build.Week04App.props
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Week04App.props
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Week04App.props
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.dll
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/refint/Week04App.dll
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.pdb
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/Week04App.genruntimeconfig.cache
+/Users/saugatrana/Desktop/Semester Three/ASP.NET In Class/Asp Net  week 04/Week04App/obj/Debug/net9.0/ref/Week04App.dll
